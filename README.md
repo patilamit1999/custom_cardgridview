@@ -67,5 +67,4 @@ Custom Card_GridView are instantiated as follows.
         )
       ]
       )
-      
-      ```
+```
