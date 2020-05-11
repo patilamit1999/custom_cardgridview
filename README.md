@@ -23,3 +23,49 @@ samples, guidance on mobile development, and a full API reference.
     <td><img src="gifs/healthcare.gif"/></td>
   </tr>
 </table>
+# Introduction
+
+**Custom_Cardgridview** library is built upon Flutter Custom Card Material Design library. This API will be useful to create rich, animated, beautiful Custom Card in Flutter  easily. 
+
+<table style="width:100%">
+  <tr>
+    <th><b>1.Card _GridLayout<b></b></th>
+    <th>2. OTP Validation</th>
+  </tr>
+  <tr>
+    <td>This is Main window where you want to add Custom card_Grid View AS you can see Below.</td>
+    <td>This is Detais window after click on Custom card  as you can see below.</td> 
+  </tr>
+  <tr>
+    <td align="center"><img src="gifs/dialog.jpg" width="75%"/></td>
+    <td align="center"><img src="gifs/login.jpg" width="75%"/></td> 
+  </tr>
+</table>
+### Create Custom Card_GridView Instance
+Custom Card_GridView are instantiated as follows.
+#### i. Custom Card_GridView -
+`CustomCard` class is used to create Custom Card_GridView . Its dynamic `state` class is used to instantiate it. 
+```dart
+ body: GridCard(cardLayout:
+      [
+        CustomCard(
+          imgPath: "assets/red.png",
+          name: "oppo",
+          price: "12345",
+          isFavorite: false,
+          added: false,
+        ),
+        CustomCard(
+          imgPath: "assets/real.png",
+          name: "realme",
+          price: "12345",
+          isFavorite: false,
+          added: false,
+          onPressed:(){
+            //On tap on card Redirect To
+          },
+        )
+      ]
+      )
+      
+      ```
