@@ -23,6 +23,8 @@ samples, guidance on mobile development, and a full API reference.
     <td><img src="ss/main.jpg" height:100/></td>
   </tr>
 </table>
+
+
 # Introduction
 
 **Custom_Cardgridview** library is built upon Flutter Custom Card Material Design library. This API will be useful to create rich, animated, beautiful Custom Card in Flutter  easily. 
@@ -41,9 +43,13 @@ samples, guidance on mobile development, and a full API reference.
     <td align="center"><img src="ss/deat.jpg" width="75%"/></td> 
   </tr>
 </table>
+
 ## Create Custom Card_GridView Instance
+
 Custom Card_GridView are instantiated as follows.
+
 ## i. Custom Card_GridView -
+
 `CustomCard` class is used to create Custom Card_GridView . Its dynamic `state` class is used to instantiate it. 
 
 
