@@ -45,6 +45,8 @@ samples, guidance on mobile development, and a full API reference.
 Custom Card_GridView are instantiated as follows.
 #### i. Custom Card_GridView -
 `CustomCard` class is used to create Custom Card_GridView . Its dynamic `state` class is used to instantiate it. 
+
+
 ```dart
  body: GridCard(cardLayout:
       [
