@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage>
         ),
         CustomCard(
           imgPath: "assets/real.png",
-          name: "padu",
+          name: "realme",
           price: "12345",
           isFavorite: false,
           added: false,
