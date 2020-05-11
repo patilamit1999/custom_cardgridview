@@ -1,4 +1,4 @@
-# custom_cardgridview
+# Custom Card Grid View
 
 A new Flutter package project.
 
