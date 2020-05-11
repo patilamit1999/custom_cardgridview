@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
       
   </tr>
   <tr>
-    <td><img src="gifs/healthcare.gif"/></td>
+    <td><img src="ss/main.jpg"/></td>
   </tr>
 </table>
 # Introduction
@@ -37,8 +37,8 @@ samples, guidance on mobile development, and a full API reference.
     <td>This is Detais window after click on Custom card  as you can see below.</td> 
   </tr>
   <tr>
-    <td align="center"><img src="gifs/dialog.jpg" width="75%"/></td>
-    <td align="center"><img src="gifs/login.jpg" width="75%"/></td> 
+    <td align="center"><img src="ss/main.jpg" width="75%"/></td>
+    <td align="center"><img src="ss/deat.jpg" width="75%"/></td> 
   </tr>
 </table>
 ### Create Custom Card_GridView Instance
