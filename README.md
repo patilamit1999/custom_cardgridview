@@ -35,7 +35,7 @@ samples, guidance on mobile development, and a full API reference.
     <th>2. Details</th>
   </tr>
   <tr>
-    <td>This is Main window where you want to add Custom card_Grid View AS you can see Below.</td>
+    <td>This is Main window where you want to add Custom card_Grid View as you can see Below.</td>
     <td>This is Detais window after click on Custom card  as you can see below.</td> 
   </tr>
   <tr>
