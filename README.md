@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
       
   </tr>
   <tr>
-    <td><img src="ss/main.jpg"/></td>
+    <td><img src="ss/main.jpg" height:100/></td>
   </tr>
 </table>
 # Introduction
