@@ -32,7 +32,7 @@ samples, guidance on mobile development, and a full API reference.
 <table style="width:100%">
   <tr>
     <th><b>1.Card _GridLayout<b></b></th>
-    <th>2. OTP Validation</th>
+    <th>2. Details</th>
   </tr>
   <tr>
     <td>This is Main window where you want to add Custom card_Grid View AS you can see Below.</td>
